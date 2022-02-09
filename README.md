@@ -102,6 +102,16 @@ Our model returned results that many myth believers will be sad to hear.
 
 # Visualuations 
 We used Tableau Public for visual displays and a fully interactive [Dashboard](https://public.tableau.com/app/profile/jake.wolfe/viz/Gainesville_Crime_Project/InteractiveDashboard?publish=yes)
+
+
+### Screenshot of Interactive Dashboard
+<img src = "https://user-images.githubusercontent.com/89044350/153247362-f2e3df88-5ea3-44cf-bfb3-6f5f91e7c0eb.JPG">
+
+The dashboard allows users to make preselected conditions (crime classification and crime type) automatically updating the map to display the location in Gainesville, and total counts of the selected crime(s).  If a user should then select a bubble within the map, the lower bar chart will display the total amount of the selected crime per the 4 major moon phases.
+
+### Moon Phases vs CFS Type Totals
+<img src = "https://user-images.githubusercontent.com/89044350/153249222-a687036c-e14b-47d2-ba07-89006436e0c5.JPG">
+
   
   
 # Conclusion
