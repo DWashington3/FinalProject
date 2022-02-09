@@ -117,7 +117,8 @@ The above image breaks down each Call For Service (Crime) type total, across the
 ### Crimes by Hour and Moon Phase
 <img src = "https://user-images.githubusercontent.com/89044350/153251854-2975bf48-a0a8-4dca-b381-bea8e224f1ae.JPG">
 
-  
+The above image breaks down total crimes permitted by hour, across all four major moon phases.  It is clear to see that most crimes occur during the midnight hour, with a 
+642% decrease after 1:00am.
   
 # Conclusion
 
