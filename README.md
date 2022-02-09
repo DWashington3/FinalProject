@@ -113,6 +113,10 @@ The dashboard allows users to make preselected conditions (crime classification 
 <img src = "https://user-images.githubusercontent.com/89044350/153249222-a687036c-e14b-47d2-ba07-89006436e0c5.JPG">
 
 The above image breaks down each Call For Service (Crime) type total, across the four major moon phases.  As you can see, theft is the most committed crime across all moon phases.  This chart also suggests that moon phase has no affect on which crime is committed, or to the overall sum of crimes.
+
+### Crimes by Hour and Moon Phase
+<img src = "https://user-images.githubusercontent.com/89044350/153251854-2975bf48-a0a8-4dca-b381-bea8e224f1ae.JPG">
+
   
   
 # Conclusion
